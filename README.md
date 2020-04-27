@@ -11,5 +11,6 @@ Given s, print the number of words in  on a new line.
 
 For example, <i>s=oneTwoThree</i>. There are <i>3</i> words in the string.
 
-<h4>Test run</h4>
-![Output Image](camelcase_testrun.png)
+### Test run
+
+![Test run](camelcase_testrun.png)
